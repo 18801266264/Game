@@ -1,0 +1,165 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,1_jpg,2_jpg,12_jpg,22_jpg,13_jpg,23_jpg,PLAYER_MOVE_json,PLAYER_MOVE_png,PLAYER_STAND_json,PLAYER_STAND_png,player_png,button_png,emoji_1_png,emoji_2_png,killMonsterButton_png,npc2_jpg,npc3_jpg,npc1_jpg,npc3_png,npc1_png,npc2_png,npc22_jpg,npc32_jpg,npc12_jpg,timg_jpg,captain_jpg,userPanel_jpg,eightGod_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "1_jpg",
+			"type": "image",
+			"url": "assets/1.jpg"
+		},
+		{
+			"name": "2_jpg",
+			"type": "image",
+			"url": "assets/2.jpg"
+		},
+		{
+			"name": "12_jpg",
+			"type": "image",
+			"url": "config/1.jpg"
+		},
+		{
+			"name": "22_jpg",
+			"type": "image",
+			"url": "config/2.jpg"
+		},
+		{
+			"name": "13_jpg",
+			"type": "image",
+			"url": "1.jpg"
+		},
+		{
+			"name": "23_jpg",
+			"type": "image",
+			"url": "2.jpg"
+		},
+		{
+			"name": "PLAYER_MOVE_json",
+			"type": "json",
+			"url": "assets/PLAYER_MOVE.json"
+		},
+		{
+			"name": "PLAYER_MOVE_png",
+			"type": "image",
+			"url": "assets/PLAYER_MOVE.png"
+		},
+		{
+			"name": "PLAYER_STAND_json",
+			"type": "json",
+			"url": "assets/PLAYER_STAND.json"
+		},
+		{
+			"name": "PLAYER_STAND_png",
+			"type": "image",
+			"url": "assets/PLAYER_STAND.png"
+		},
+		{
+			"name": "player_png",
+			"type": "image",
+			"url": "assets/player.png"
+		},
+		{
+			"name": "button_png",
+			"type": "image",
+			"url": "assets/button.png"
+		},
+		{
+			"name": "emoji_1_png",
+			"type": "image",
+			"url": "assets/emoji_1.png"
+		},
+		{
+			"name": "emoji_2_png",
+			"type": "image",
+			"url": "assets/emoji_2.png"
+		},
+		{
+			"name": "killMonsterButton_png",
+			"type": "image",
+			"url": "assets/killMonsterButton.png"
+		},
+		{
+			"name": "npc2_jpg",
+			"type": "image",
+			"url": "assets/npc2.jpg"
+		},
+		{
+			"name": "npc3_jpg",
+			"type": "image",
+			"url": "assets/npc3.jpg"
+		},
+		{
+			"name": "npc1_jpg",
+			"type": "image",
+			"url": "assets/npc1.jpg"
+		},
+		{
+			"name": "npc3_png",
+			"type": "image",
+			"url": "assets/npc3.png"
+		},
+		{
+			"name": "npc1_png",
+			"type": "image",
+			"url": "assets/npc1.png"
+		},
+		{
+			"name": "npc2_png",
+			"type": "image",
+			"url": "assets/npc2.png"
+		},
+		{
+			"name": "npc22_jpg",
+			"type": "image",
+			"url": "assets/npc2.jpg"
+		},
+		{
+			"name": "npc32_jpg",
+			"type": "image",
+			"url": "assets/npc3.jpg"
+		},
+		{
+			"name": "npc12_jpg",
+			"type": "image",
+			"url": "assets/npc1.jpg"
+		},
+		{
+			"name": "timg_jpg",
+			"type": "image",
+			"url": "assets/timg.jpg"
+		},
+		{
+			"name": "captain_jpg",
+			"type": "image",
+			"url": "assets/captain.jpg"
+		},
+		{
+			"name": "userPanel_jpg",
+			"type": "image",
+			"url": "assets/userPanel.jpg"
+		},
+		{
+			"name": "eightGod_jpg",
+			"type": "image",
+			"url": "assets/eightGod.jpg"
+		}
+	]
+}
